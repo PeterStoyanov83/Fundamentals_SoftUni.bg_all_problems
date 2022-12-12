@@ -4,6 +4,10 @@ animal = [head, body, tail]
 
 print(animal)
 
+
+
+
+
 """
 1. Strange Zoo
 
