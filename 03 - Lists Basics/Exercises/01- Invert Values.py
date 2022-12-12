@@ -1,8 +1,8 @@
-string_to_list_input = input().split(" ")
-inverted  = []
+string_to_list_input = input().split()
+inverted = []
 for string in string_to_list_input:
-    string = int(string * -1)
-    inverted.append(str(string))
+    inverted.append(-int(string))
+
 print(inverted)
 
 
