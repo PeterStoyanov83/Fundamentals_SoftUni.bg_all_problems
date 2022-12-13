@@ -2,7 +2,7 @@ events = input().split("|")
 
 total_energy = 100
 total_coins = 100
-
+gained_energy = 0
 factory_open = True
 
 for event in events:
@@ -13,7 +13,7 @@ for event in events:
     if event_type == "rest":
         current_energy = total_energy
         total_energy += event_value
-        if total_energy > 100:
+        if total_energy >= 100:
             total_energy = 100
             gained_energy = total_energy - current_energy
         print(f"You gained {gained_energy} energy.")
@@ -86,7 +86,5 @@ rest-2|order-10|eggs-100|rest-10            You gained 0 energy. Current energy:
 
 Coins: 10 Energy: 80
 
-order-10|order-10|order-10|flour-
-
-100|order-100|oven-100|order-1000 You earned 10 coins. You earned 10 coins. You earned 10 coins. You bought flour. You had to rest! Closed! Cannot afford oven.
+order-10|order-10|order-10|flour-100|order-100|oven-100|order-1000 You earned 10 coins. You earned 10 coins. You earned 10 coins. You bought flour. You had to rest! Closed! Cannot afford oven.
 """
