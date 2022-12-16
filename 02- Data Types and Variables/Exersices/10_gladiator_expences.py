@@ -38,7 +38,7 @@ The input will consist of 5 lines:
 · On the fifth line, you will receive the armor price - a floating-point number in the range [0, 1000].
 
 Output
-· As output, you must print Peter`s total expenses for new equipment: "Gladiator expenses: {expenses} aureus"
+· As output, you must print Peter`s total expenses for newhealth equipment: "Gladiator expenses: {expenses} aureus"
 
 Examples:
     

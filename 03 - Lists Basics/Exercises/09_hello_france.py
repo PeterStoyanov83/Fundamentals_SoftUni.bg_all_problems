@@ -54,7 +54,7 @@ If a price for a certain item is higher than the maximum price, don’t buy it. 
  reduce the budget with the value of its price. If you don’t have enough money for it, you can’t buy it. 
  Buy as much items as you can.
 
-You have to increase the price of each of the items you have successfully bought with 40%. Print the list with the new 
+You have to increase the price of each of the items you have successfully bought with 40%. Print the list with the newhealth 
 prices and the profit you will gain from selling the items. They need exactly 150$ for tickets for the train, 
 so if their budget after selling the products is enough – print – "Hello, France!" and if not – "Time to go."
 
@@ -66,7 +66,7 @@ Input / Constraints
 
 Output
 
-· Print the list with the bought item’s new prices, rounded 2 digits after the decimal separator in the following 
+· Print the list with the bought item’s newhealth prices, rounded 2 digits after the decimal separator in the following 
 format:
         "{price1} {price2} {price3} {price5}………{priceN}"
 
@@ -91,6 +91,6 @@ Comments:
 We start subtracting the valid prices from the budget: 
 120 – 43.40 = 76.7. 76.7 – 25.25 = 51.45 51.45 – 36.52 = 14.93 
 14.93 is less than 20.90 and 15.60, so we can’t buy either of the last two. We must increase each price 
-with 40% and the new prices are: 60.62 35.35 51.13. The profit is 42.03 and their new budget will be – what is left of 
+with 40% and the newhealth prices are: 60.62 35.35 51.13. The profit is 42.03 and their newhealth budget will be – what is left of 
 the budget - 14.93 + {sum of all newPrices}. It is enough, so we print: Hello, France!
 """

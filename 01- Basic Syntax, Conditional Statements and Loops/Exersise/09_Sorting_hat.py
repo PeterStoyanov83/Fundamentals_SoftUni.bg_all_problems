@@ -24,7 +24,7 @@ if voldemort == False:
 """
 9. Sorting Hat
 
-Help out the sorting hat to sort the new students in the houses of Hogwarts. You will be receiving names until the command "Welcome!". The length of each name determines in which house the student is going:
+Help out the sorting hat to sort the newhealth students in the houses of Hogwarts. You will be receiving names until the command "Welcome!". The length of each name determines in which house the student is going:
 
 · If the name is less than 5 chars, the student is going into Gryffindor
 

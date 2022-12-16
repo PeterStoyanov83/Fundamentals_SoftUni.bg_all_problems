@@ -13,7 +13,7 @@ print(substring)
 """
 1. Which Are In?
 
-You will be given two sequences of strings, separated by ", ". Print a new list containing only the strings from the
+You will be given two sequences of strings, separated by ", ". Print a newhealth list containing only the strings from the
  first input line, which are substrings of any string in the second input line.
 
 Example

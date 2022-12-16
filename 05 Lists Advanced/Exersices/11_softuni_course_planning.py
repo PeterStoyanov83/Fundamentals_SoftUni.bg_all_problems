@@ -102,7 +102,7 @@ Input / Constraints
 
 Output
 
-· Print the whole course schedule, each lesson on a new line with its number (index) in the schedule:
+· Print the whole course schedule, each lesson on a newhealth line with its number (index) in the schedule:
         "{lesson index}.{lessonTitle}".
 · Allowed working time / memory: 100ms / 16MB.
 
