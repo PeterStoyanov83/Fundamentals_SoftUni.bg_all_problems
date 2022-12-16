@@ -25,8 +25,9 @@ while True:
             items = item.split(":")
             item1 = items[0]
             item2 = items[1]
-            if item1 in inventory:
-                inventory[item1] = inventory[item2]
+            for i in range(len(inventory)):
+                if item1 in inventory:
+                    inventory.insert(i + 1, items[1])
         elif action == "Renew":
             if item in inventory:
                 inventory.remove(item)
