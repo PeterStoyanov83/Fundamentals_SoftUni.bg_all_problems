@@ -9,15 +9,15 @@ for room in dungeon:
     current_value = command[1]
 
     if current_command == "potion":
+        new_health = health + int(current_value)
+        if new_health > 100:
+            new_health = 100
+        healed = abs(100 - health)
 
-        newhealth = health + int(current_value)
-        healed = abs(health - newhealth)
-
-        if newhealth > 100:
-            newhealth = 100
 
         print(f"You healed for {healed} hp.")
-        print(f"Current health: {newhealth} hp.")
+        print(f"Current health: {new_health} hp.")
+        health = new_health
 
     elif current_command == "chest":
         bitcoins += int(current_value)

@@ -1,7 +1,6 @@
 
 inventory = list(map(str, input().split(", ")))
 
-
 while True:
     command = input()
     if command == "Craft!":
@@ -25,13 +24,18 @@ while True:
             items = item.split(":")
             item1 = items[0]
             item2 = items[1]
-            for i in range(len(inventory)):
-                if item1 in inventory:
-                    inventory.insert(i + 1, items[1])
+            # print(inventory)
+            if item1 in inventory:
+                index = inventory.index(item1) + 1
+                inventory.insert(index, item2)
+
+            # print(inventory)
         elif action == "Renew":
+            # print(inventory)
             if item in inventory:
                 inventory.remove(item)
-                inventory.insert(-1, item)
+                inventory.append(item)
+            # print(inventory)
 
 print(", ".join(inventory))
 #
