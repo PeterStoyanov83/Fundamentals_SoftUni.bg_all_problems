@@ -7,7 +7,6 @@ while True:
 
     commands = command.split(" ")
 
-
     if commands[0] == "Urgent":
         item = commands[1]
 
@@ -16,11 +15,9 @@ while True:
         else:
             initial_list.insert(0, item)
 
-
     elif commands[0] == "Unnecessary":
         if commands[1] in initial_list:
             initial_list.remove(commands[1])
-
 
     elif commands[0] == "Correct":
         old_item = commands[1]
@@ -30,7 +27,6 @@ while True:
             initial_list.insert(index, new_item)
             # del initial_list[index + 1]
             initial_list.remove(old_item)
-
 
     elif commands[0] == "Rearrange":
         if commands[1] in initial_list:
