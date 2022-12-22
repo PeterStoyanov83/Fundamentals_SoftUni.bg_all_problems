@@ -1,0 +1,144 @@
+Index: 08 - Dictionaries/02_stock.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/08 - Dictionaries/02_stock.py b/08 - Dictionaries/02_stock.py
+--- a/08 - Dictionaries/02_stock.py	(revision 3f4475ef720630ba7eaa230b64cc268941f5ba33)
++++ b/08 - Dictionaries/02_stock.py	(date 1671783931638)
+@@ -1,0 +1,39 @@
++elements = input().split(" ")
++search_products = input().split(" ")
++
++bakery = {}
++
++
++for i in range(0, len(elements), 2):    #for loop for adding items in dictionary
++    key = elements[i]
++    value = elements[i + 1]
++    bakery[key] = int(value)
++
++
++
++
++for product in search_products:         #for each item in the searched products list
++    if product in bakery:               # checking if the item exists in the dictionary as a key
++
++                            # value                key
++        print(f"We have {bakery[product]} of {product} left")
++    else:                                #key
++        print(f"Sorry, we don't have {product}")
++
++
++
++# ______________________________________________________________
++
++inventory = input().split(' ')
++
++#as comprehension
++inventory_products = {inventory[i]: int(inventory[i + 1]) for i in range(0, len(inventory), 2)}
++
++search_product = input().split(' ')
++
++for product in search_product:
++    if product not in inventory_products:
++        print(f"Sorry, we don't have {product}")
++    else:
++        print(f"We have {inventory_products[product]} of {product} left")
++
+Index: 08 - Dictionaries/03_statistics.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/08 - Dictionaries/03_statistics.py b/08 - Dictionaries/03_statistics.py
+--- a/08 - Dictionaries/03_statistics.py	(revision 3f4475ef720630ba7eaa230b64cc268941f5ba33)
++++ b/08 - Dictionaries/03_statistics.py	(date 1671785148904)
+@@ -1,0 +1,45 @@
++products = {}
++
++command = input()
++
++while command != "statistics":
++    key, value = command.split(": ")
++    if key not in products.keys():
++        products[key] = 0    #definind the key with value 0 if it doesn't exist in the dictionary
++
++    products[key] += int(value)   # adding the value even if it exists
++
++    command = input()
++
++print("Products in stock:")
++
++for product, quantity in products.items():      #unpacking the items in products
++
++    print(f'- {product}: {quantity}')           #printing each tuple separate
++
++print(f'Total Products: {len(products)}')       # getting the leinght of the keys (number of keys )
++print(f'Total Quantity: {sum(list(products.values()))}')  #getting the sum of the values
++
++#________________________________________________________________________________________
++
++product_inventory = {}
++
++while True:
++    command = input()
++    if command == "statistics":
++        break
++
++    command = command.split(": ")
++    product = command[0]
++    quantity = int(command[1])
++
++    if product not in product_inventory:
++        product_inventory[product] = quantity
++    else:
++        product_inventory[product] += quantity
++
++print('Products in stock:')
++product_representation = [f'- {item}: {str(product_inventory[item])}' for item in product_inventory]
++print('\n'.join(product_representation))
++print(f'Total Products: {len(product_inventory)}')
++print(f'Total Quantity: {sum(product_inventory.values())}')
+Index: 08 - Dictionaries/01_bakery.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/08 - Dictionaries/01_bakery.py b/08 - Dictionaries/01_bakery.py
+--- a/08 - Dictionaries/01_bakery.py	(revision 3f4475ef720630ba7eaa230b64cc268941f5ba33)
++++ b/08 - Dictionaries/01_bakery.py	(date 1671782642604)
+@@ -1,0 +1,33 @@
++items = input().split(" ")              # inputing as list of items
++
++bakery = {}            #creating the final dictionary to be filled with items
++
++
++for index in range(0, len(items), 2):  # defining the step to get the indexes of keys
++
++    key = items[index]
++
++    value = int(items[index + 1])      # the value is the index after the key
++
++    bakery[key] = value             # adding the couples as key and value
++
++
++print(bakery)
++
++#________________________________________________________________
++
++elements = input().split(" ")
++bakery_dict = {}
++
++#  no 1 ** FOR LOOP **
++
++
++for i in range(0, len(elements), 2):
++    bakery_dict[elements[i]] = int(elements[i + 1])
++
++# no 2  - same for loop but done with Comprehension
++
++                # key               value               for loop
++bakery_dict = {elements[i]: int(elements[i+1]) for i in range(0, len(elements), 2)}
++
++print(bakery_dict)
