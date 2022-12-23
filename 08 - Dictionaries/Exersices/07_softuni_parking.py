@@ -12,7 +12,7 @@ for car in range(number_of_cars):
         if driver in parking.keys():
             print(f"ERROR: already registered with plate number {license_plate_number}")
         else:
-            parking[driver] = license_plate_number # adding to list 
+            parking[driver] = license_plate_number  # adding to list
             print(f"{driver} registered {license_plate_number} successfully")
     if action == "unregister":
         driver = current_driver[1]
