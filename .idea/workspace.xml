@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <change afterPath="$PROJECT_DIR$/09 - Text Processing/01_reverse_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09 - Text Processing/02_repeat_strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09 - Text Processing/03_substring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09 - Text Processing/04_text_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09 - Text Processing/05_digits_letters_and_other.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09 - Text Processing/09-Text-Processing-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,11 +45,6 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\09 - Text Processing" />
-    </key>
-  </component>
   <component name="RunManager" selected="Python.01_character_occurances">
     <configuration name="01_character_occurances" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
@@ -314,14 +301,7 @@
       <option name="project" value="LOCAL" />
       <updated>1671801519344</updated>
     </task>
-    <task id="LOCAL-00026" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <created>1671803094639</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1671803094639</updated>
-    </task>
-    <option name="localTasksCounter" value="27" />
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
