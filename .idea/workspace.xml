@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <change afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/09_rage_qiut.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/10_winning_ticket.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/07_string_exploding.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/07_string_exploding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/08_letters_change_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/08_letters_change_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/09-Text-Processing-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/Text-Processing-Exercise.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/09_rage_qiut.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/09_rage_qiut.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +54,7 @@
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\09 - Text Processing\Exersices" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_emoticon_finder">
+  <component name="RunManager" selected="Python.09_rage_qiut">
     <configuration name="01_character_occurances" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,8 +139,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="09_rage_qiut" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals_SoftUni.bg_all_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09 - Text Processing/Exersices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 - Text Processing/Exersices/09_rage_qiut.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.09_rage_qiut" />
         <item itemvalue="Python.05_emoticon_finder" />
         <item itemvalue="Python.01_character_occurances" />
         <item itemvalue="Python.05_ascii_values" />
@@ -371,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672749025306</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <created>1672753328325</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1672753328325</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
