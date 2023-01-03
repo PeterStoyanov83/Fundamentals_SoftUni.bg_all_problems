@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py" />
+    <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <change afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/09_rage_qiut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/10_winning_ticket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/07_string_exploding.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/07_string_exploding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/08_letters_change_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/08_letters_change_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/09-Text-Processing-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/Text-Processing-Exercise.docx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -357,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672748528455</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <created>1672749025306</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1672749025306</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
