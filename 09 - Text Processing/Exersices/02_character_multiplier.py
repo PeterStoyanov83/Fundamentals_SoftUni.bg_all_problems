@@ -17,3 +17,5 @@ for i in range(min(len(str1), len(str2)), max(len(str1), len(str2))):
 
 # Print the result
 print(total)
+
+

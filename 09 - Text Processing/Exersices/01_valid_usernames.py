@@ -12,10 +12,11 @@ def is_valid_username(username):
     if username[0] == '-' or username[0] == '_' or username[-1] == '-' or username[-1] == '_':
         return False
     for i in range(1, len(username) - 1):
-        if (username[i] == '-' and username[i-1] == '-') or (username[i] == '_' and username[i-1] == '_'):
+        if (username[i] == '-' and username[i - 1] == '-') or (username[i] == '_' and username[i - 1] == '_'):
             return False
 
     return True
+
 
 # Read the usernames from the input
 usernames = input().split(", ")
@@ -31,11 +32,10 @@ function, and checks each username using the is_valid_username() function. If th
 the output.
 """
 
-
-
 "using regex"
 
 import re
+
 
 def extract_person_info(line):
     # Use a regular expression to find the name and age in the string
@@ -46,6 +46,7 @@ def extract_person_info(line):
 
     # Print the extracted information
     print(f"{name} is {age} years old.")
+
 
 # Read N lines of input from the user
 N = int(input())

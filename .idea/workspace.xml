@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <change afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/09-Text-Processing-Exercise.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09 - Text Processing/More Exersice/01_extract_person_information.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09 - Text Processing/More Exersice/09-Text-Processing-More-Exercises.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/08_letters_change_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09 - Text Processing/More Exersice/03_treasure_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/00_introduction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/01_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/01_valid_usernames.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/01_valid_usernames.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/02_character_multiplier.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/02_character_multiplier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/03_extract_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/03_extract_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/04_caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/04_caesar_cipher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/05_emoticon_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/05_emoticon_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/06_replace_repeating_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/06_replace_repeating_chars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/07_string_exploding.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/07_string_exploding.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -346,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672733814013</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <created>1672738078890</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1672738078890</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
