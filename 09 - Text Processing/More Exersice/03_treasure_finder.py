@@ -1,22 +1,24 @@
+import re
+
+
 def decrypt(key, text):
-    # Initialize the result string
-    result = ""
+    # Initialize the decrypted text
+    decrypted = ""
 
-    # Iterate through the characters of the text
+    # Decrypt the text by decreasing the ASCII code of each character with a corresponding number of the key sequence
     for i, ch in enumerate(text):
-        # Decrypt the character by decreasing its ASCII code with the corresponding key number
-        result += chr(ord(ch) - int(key[i % len(key)]))
+        decrypted += chr(ord(ch) - int(key[i % len(key)]))
 
-    return result
+    return decrypted
 
 
-# Read the input key
+# Read the key
 key = input().split()
 
-# Initialize the decrypted message
+# Initialize the message
 message = ""
 
-# Read the input lines until the "find" command is encountered
+# Read the message lines until the "find" command
 while True:
     line = input()
     if line == "find":
@@ -24,16 +26,11 @@ while True:
     message += line
 
 # Decrypt the message
-decrypted = decrypt(key, message)
+    decrypted = decrypt(key, message)
 
-# Extract the treasure type and coordinates from the decrypted message
-type_start = decrypted.index("&") + 1
-type_end = decrypted.index("<")
-type = decrypted[type_start:type_end]
-
-coordinates_start = type_end + 1
-coordinates_end = decrypted.index(">")
-coordinates = decrypted[coordinates_start:coordinates_end]
+# Find the treasure type and coordinates
+    treasure_type = re.search(r'&(.+?)&', decrypted).group(1)
+    coordinates = re.search(r"<(.+?)>", decrypted).group(1)
 
 # Print the result
-print(f"Found {type} at {coordinates}")
+    print("Found {} at {}".format(treasure_type, coordinates))

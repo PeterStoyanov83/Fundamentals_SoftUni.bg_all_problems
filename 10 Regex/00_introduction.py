@@ -32,4 +32,17 @@ r"[A-Z]": An uppercase letter
 r"[a-zA-Z]": An alphabetic character (letter)
 r"\w+": 1 or more alphanumeric characters
 
+re.search  - returns 1st match
+re.findall - returns all matches
+
+
 """
+
+import re
+
+txt = "The rain in Spain"
+
+x = re.search("^The.*Spain$", txt)
+
+print(x)
+
