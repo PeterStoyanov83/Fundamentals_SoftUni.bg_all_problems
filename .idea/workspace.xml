@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <change afterPath="$PROJECT_DIR$/10 Regex/Exercise/02_find)variable_names_in_sentences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/01_capture_the_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 Regex/Exercise/01_capture_the_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/Exercise/03_find_occurances_of_word_in_sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/Exercise/04_extract_emails.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/Exercise/05_furniture.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -426,7 +427,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672833898125</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <created>1672836534886</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1672836534886</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
