@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <change afterPath="$PROJECT_DIR$/10 Regex/02_match_phone_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10 Regex/09-RegEx-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/More Exersice/03_treasure_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/More Exersice/03_treasure_finder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/00_introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 Regex/00_introduction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/01_.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 Regex/01_match_full_name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/03_match_dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/04_match_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/Exercise/01_capture_the_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/Exercise/regex_exersices_yсловия.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,12 +52,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\10 Regex\Exercise" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\10 Regex" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\09 - Text Processing\More Exersice" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\09 - Text Processing\Exersices" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01_match_full_name">
+  <component name="RunManager" selected="Python.03_match_dates">
     <configuration name="00_introduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,6 +93,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 Regex/01_match_full_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="03_match_dates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals_SoftUni.bg_all_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10 Regex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 Regex/03_match_dates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,34 +164,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09_rage_qiut" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals_SoftUni.bg_all_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09 - Text Processing/Exersices" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 - Text Processing/Exersices/09_rage_qiut.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03_match_dates" />
         <item itemvalue="Python.01_match_full_name" />
         <item itemvalue="Python.00_introduction" />
         <item itemvalue="Python.03_treasure_finder" />
         <item itemvalue="Python.04_morse_code_translator" />
-        <item itemvalue="Python.09_rage_qiut" />
       </list>
     </recent_temporary>
   </component>
@@ -415,7 +414,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672756614494</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <created>1672826053270</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1672826053270</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
