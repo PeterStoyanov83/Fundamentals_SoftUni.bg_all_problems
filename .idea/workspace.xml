@@ -5,6 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <change afterPath="$PROJECT_DIR$/10 Regex/Exercise/06_extract_the_link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/More Exersices/01_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/More Exersices/02_softuni_bar_income.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/More Exersices/03_star_enigma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/More Exersices/04_nether_realms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/More Exersices/05_html_phaser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10 Regex/More Exersices/Условия.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/Emoji Detector/02. Emoji Detector_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/Emoji Detector/emoji_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/password reset/01. Password Reset_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/password reset/passwprd_reset.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/05_furniture.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 Regex/Exercise/05_furniture.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,34 +60,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\Emoji Detector" />
+      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\password reset" />
+      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep" />
+      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\10 Regex\More Exersices" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\10 Regex\Exercise" />
-      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\10 Regex" />
-      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\09 - Text Processing\More Exersice" />
-      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\09 - Text Processing\Exersices" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02_find)variable_names_in_sentences">
-    <configuration name="00_introduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals_SoftUni.bg_all_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10 Regex" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 Regex/00_introduction.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.passwprd_reset">
     <configuration name="01_match_full_name" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,6 +81,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 Regex/01_match_full_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="01_race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals_SoftUni.bg_all_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10 Regex/More Exersices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 Regex/More Exersices/01_race.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_treasure_finder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="passwprd_reset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09 - Text Processing/More Exersice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 - Final Exam Prep/password reset" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 - Text Processing/More Exersice/03_treasure_finder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 - Final Exam Prep/password reset/passwprd_reset.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.passwprd_reset" />
+        <item itemvalue="Python.01_race" />
         <item itemvalue="Python.02_find)variable_names_in_sentences" />
         <item itemvalue="Python.03_match_dates" />
         <item itemvalue="Python.01_match_full_name" />
-        <item itemvalue="Python.00_introduction" />
-        <item itemvalue="Python.03_treasure_finder" />
       </list>
     </recent_temporary>
   </component>
@@ -453,6 +465,17 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py" />
@@ -524,6 +547,96 @@
           <url>file://$PROJECT_DIR$/10 Regex/Exercise/02_find)variable_names_in_sentences.py</url>
           <line>8</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/password reset/passwprd_reset.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/password reset/passwprd_reset.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/password reset/passwprd_reset.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/password reset/passwprd_reset.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/password reset/passwprd_reset.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/password reset/passwprd_reset.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/password reset/passwprd_reset.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/password reset/passwprd_reset.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/password reset/passwprd_reset.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

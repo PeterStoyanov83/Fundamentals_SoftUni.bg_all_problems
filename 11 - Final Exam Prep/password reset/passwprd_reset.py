@@ -1,0 +1,32 @@
+def data_password_reset():
+    data = input()
+
+    while True:
+        command = input().split(" ")
+
+        if command[0] == "Done":
+            print(f' Your password is: {data}')
+            break
+
+        elif command[0] == "TakeOdd":
+            data = "".join([data[i] for i in range(len(data)) if i % 2 != 0])
+            print(data)
+
+        elif command[0] == "Cut":
+            index = int(command[1])
+            lenght = int(command[2])
+            data = "".join([data[i] for i in range(len(data)) if i < index or i >= index + lenght])
+            print(data)
+
+        elif command[0] == "Substitute":
+            substring = command[1]
+            subsitutite = command[2]
+
+            if substring in data:
+                data = data.replace(substring, subsitutite)
+                print(data)
+            else:
+                print("Nothing to replace!")
+
+
+data_password_reset()
