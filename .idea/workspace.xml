@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <change afterPath="$PROJECT_DIR$/ Final Exam Prep/01. Activation Keys_Problem Description.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/Emoji Detector/02. Emoji Detector_Problem Description.docx" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/Emoji Detector/02. Emoji Detector_Problem Description.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/Emoji Detector/emoji_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/Emoji Detector/emoji_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/The Pianist/03. The Pianist_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/The Pianist/the_pianist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/02. Programming Fundamentals Final Exam/Destination Mapper/02. Destination Mapper_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/02. Programming Fundamentals Final Exam/Destination Mapper/destination_mapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Mirror Words/02. Mirror Words_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Mirror Words/mirror_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Secret Chat/secret_chat.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Secret Chat/secret_chat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +55,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\01. Programming Fundamentals Final Exam\The Pianist" />
+      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\02. Programming Fundamentals Final Exam\Destination Mapper" />
+      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\03. Programming Fundamentals Final Exam Retake\Mirror Words" />
+      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\03. Programming Fundamentals Final Exam Retake" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\05. Programming Fundamentals Final Exam" />
-      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\ Final Exam Prep" />
-      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\02. Programming Fundamentals Final Exam" />
-      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\04. Programming Fundamentals Final Exam" />
-      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\Fancy Barcodes" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.emoji_detector">
+  <component name="RunManager" selected="Python.destination_mapper">
     <configuration name="01_race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_match_dates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="destination_mapper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10 Regex" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 - Final Exam Prep/02. Programming Fundamentals Final Exam/Destination Mapper" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 Regex/03_match_dates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 - Final Exam Prep/02. Programming Fundamentals Final Exam/Destination Mapper/destination_mapper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.destination_mapper" />
         <item itemvalue="Python.emoji_detector" />
         <item itemvalue="Python.passwprd_reset" />
         <item itemvalue="Python.01_race" />
         <item itemvalue="Python.02_find)variable_names_in_sentences" />
-        <item itemvalue="Python.03_match_dates" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672929733013</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <created>1673006371129</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1673006371129</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
