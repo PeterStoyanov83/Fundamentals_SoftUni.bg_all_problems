@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/The Pianist/03. The Pianist_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/The Pianist/the_pianist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/02. Programming Fundamentals Final Exam/Destination Mapper/02. Destination Mapper_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/02. Programming Fundamentals Final Exam/Destination Mapper/destination_mapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Mirror Words/02. Mirror Words_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Mirror Words/mirror_words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Secret Chat/secret_chat.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Secret Chat/secret_chat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/The Pianist/the_pianist.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/The Pianist/the_pianist.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -474,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673006371129</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <created>1673015174867</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1673015174867</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">

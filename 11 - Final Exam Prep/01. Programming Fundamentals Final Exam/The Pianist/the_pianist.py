@@ -29,8 +29,8 @@ def remove_function(piece, data):
 
 def change_key_function(piece, new_key, data):
     if piece in data:
-        # Our dictionary for example ---> {'Fur Elise': ['Beethoven', 'A Minor']}
-        # At the index 0 in list is composer, at the index 1 is a specific key
+        """Our dictionary for example ---> {'Fur Elise': ['Beethoven', 'A Minor']}
+        At the index 0 in list is composer, at the index 1 is a specific key"""
         data[piece][1] = new_key
         print(f"Changed the key of {piece} to {new_key}!")
     else:
