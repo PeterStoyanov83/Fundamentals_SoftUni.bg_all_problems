@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/03. Heroes of Code and Logic VII_Problem Description.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Fancy Barcodes/fancy_barcodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Fancy Barcodes/fancy_barcodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,35 +51,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\04. Programming Fundamentals Final Exam\Heroes of Code and Logic VII" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\03. Programming Fundamentals Final Exam Retake\Need For Speed 3" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\01. Programming Fundamentals Final Exam\The Pianist" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\02. Programming Fundamentals Final Exam\Destination Mapper" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\03. Programming Fundamentals Final Exam Retake\Mirror Words" />
-      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\03. Programming Fundamentals Final Exam Retake" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.secret_chat">
-    <configuration name="01_race" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals_SoftUni.bg_all_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10 Regex/More Exersices" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 Regex/More Exersices/01_race.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.heroes_of_code_and_logic">
     <configuration name="destination_mapper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -113,6 +93,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 - Final Exam Prep/Emoji Detector/emoji_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="heroes_of_code_and_logic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals_SoftUni.bg_all_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.heroes_of_code_and_logic" />
         <item itemvalue="Python.secret_chat" />
         <item itemvalue="Python.destination_mapper" />
         <item itemvalue="Python.emoji_detector" />
         <item itemvalue="Python.passwprd_reset" />
-        <item itemvalue="Python.01_race" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673256281476</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <created>1673259616342</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1673259616342</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -689,6 +697,76 @@
           <url>file://$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/Emoji Detector/emoji_detector.py</url>
           <line>24</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
