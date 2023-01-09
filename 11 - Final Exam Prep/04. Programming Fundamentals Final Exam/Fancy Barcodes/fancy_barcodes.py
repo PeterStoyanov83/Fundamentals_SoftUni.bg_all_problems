@@ -5,7 +5,7 @@ for _ in range(number_of_barcode):
     data = input()
     pattern = r'(\@\#+)([A-Z][A-Za-z0-9]{4,}[A-Z])(\@\#+)'
 
-    """"@+#+[A-Z][A-Za-z0-9]{4,}[A-Z]#+@+"
+    """"(@+#+)([A-Z][A-Za-z0-9]{4,}[A-Z])(#+@+)"
     This RegEx will match a string that starts with "@" followed by one or more "#" symbols, then a capital letter, 
     followed by 4 or more characters that are either letters (upper or lowercase) or digits, followed by a capital 
     letter, followed by one or more "#" symbols, and ending with "@"."""
@@ -15,7 +15,8 @@ for _ in range(number_of_barcode):
     if not result:
         print('Invalid barcode')
     else:
-        extract_numbers = re.findall('\d', result.group())
+        extract_numbers = re.findall(r'\d', result.group())
+        """"looking for any digits in the given results"""
 
         if not extract_numbers:
             print("Product group: 00")

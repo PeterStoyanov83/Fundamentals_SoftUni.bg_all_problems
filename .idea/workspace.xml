@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Secret Chat/secret_chat.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Secret Chat/secret_chat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Fancy Barcodes/fancy_barcodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Fancy Barcodes/fancy_barcodes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,11 +50,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\03. Programming Fundamentals Final Exam Retake\Need For Speed 3" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\01. Programming Fundamentals Final Exam\The Pianist" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\02. Programming Fundamentals Final Exam\Destination Mapper" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\03. Programming Fundamentals Final Exam Retake\Mirror Words" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\03. Programming Fundamentals Final Exam Retake" />
-      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\05. Programming Fundamentals Final Exam" />
     </key>
   </component>
   <component name="RunManager" selected="Python.secret_chat">
@@ -477,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673015174867</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <created>1673256281476</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1673256281476</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
