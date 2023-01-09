@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/03. Heroes of Code and Logic VII_Problem Description.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py" afterDir="false" />
     </list>
@@ -491,7 +490,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673259616342</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <created>1673272369360</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1673272369360</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -700,73 +706,47 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>4</line>
+          <line>43</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>12</line>
+          <line>51</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>14</line>
+          <line>53</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>23</line>
+          <line>58</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>30</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>34</line>
+          <line>63</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>44</line>
+          <line>68</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>50</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
-          <line>57</line>
+          <line>75</line>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/11 - Final Exam Prep/04. Programming Fundamentals Final Exam/Heroes of Code and Logic VII/heroes_of_code_and_logic.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
