@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/Ad Astra/02. Ad Astra_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/Ad Astra/ad_astra.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/The Pianist/the_pianist_solved_with_class.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Mirror Words/mirror_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Mirror Words/mirror_words.py" afterDir="false" />
     </list>
@@ -47,7 +46,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/petar.stoyanov/PycharmProjects/Fundamentals_SoftUni&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -59,7 +58,7 @@
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\02. Programming Fundamentals Final Exam\Destination Mapper" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.heroes_of_code_and_logic">
+  <component name="RunManager" selected="Python.the_pianist_solved_with_class">
     <configuration name="destination_mapper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,27 +122,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="passwprd_reset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals_SoftUni.bg_all_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 - Final Exam Prep/password reset" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 - Final Exam Prep/password reset/passwprd_reset.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="secret_chat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,13 +143,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="the_pianist_solved_with_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals_SoftUni.bg_all_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/The Pianist" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/The Pianist/the_pianist_solved_with_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.the_pianist_solved_with_class" />
         <item itemvalue="Python.heroes_of_code_and_logic" />
         <item itemvalue="Python.secret_chat" />
         <item itemvalue="Python.destination_mapper" />
         <item itemvalue="Python.emoji_detector" />
-        <item itemvalue="Python.passwprd_reset" />
       </list>
     </recent_temporary>
   </component>
