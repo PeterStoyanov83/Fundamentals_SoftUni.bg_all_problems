@@ -6,7 +6,28 @@
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
       <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/P!rates/p!rates_advanced solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RANDOMS/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ Final Exam Prep/01. Activation Keys_Problem Description.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/00_introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/00_introduction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/01_match_full_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/01_match_full_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/02_match_phone_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/02_match_phone_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/03_match_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/03_match_dates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/04_match_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/04_match_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/09-RegEx-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/09-RegEx-Lab.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/01_capture_the_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/01_capture_the_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/02_find)variable_names_in_sentences.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/02_find)variable_names_in_sentences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/03_find_occurances_of_word_in_sentence.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/03_find_occurances_of_word_in_sentence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/04_extract_emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/04_extract_emails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/05_furniture.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/05_furniture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/06_extract_the_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/06_extract_the_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/regex_exersices_yсловия.docx" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/regex_exersices_yсловия.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/More Exersices/01_race.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/More Exersices/01_race.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/More Exersices/02_softuni_bar_income.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/More Exersices/02_softuni_bar_income.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/More Exersices/03_star_enigma.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/More Exersices/03_star_enigma.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/More Exersices/04_nether_realms.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/More Exersices/04_nether_realms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/More Exersices/05_html_phaser.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/More Exersices/05_html_phaser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10 Regex/More Exersices/Условия.docx" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/More Exersices/Условия.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/P!rates/p!rates.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/P!rates/p!rates.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +79,8 @@
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\01. Programming Fundamentals Final Exam\Ad Astra" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.p!rates">
-    <configuration name="ad_astra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/Ad Astra" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 - Final Exam Prep/01. Programming Fundamentals Final Exam/Ad Astra/ad_astra.py" />
+      <option name="SCRIPT_NAME" value="P:\Peter\Fundamentals_SoftUni.bg_all_problems\RANDOMS\1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1" />
         <item itemvalue="Python.p!rates" />
         <item itemvalue="Python.need_for_speed_3" />
         <item itemvalue="Python.world_tour" />
         <item itemvalue="Python.the_imitation_game" />
-        <item itemvalue="Python.ad_astra" />
       </list>
     </recent_temporary>
   </component>
@@ -604,67 +625,67 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/Exercise/02_find)variable_names_in_sentences.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/Exercise/02_find)variable_names_in_sentences.py</url>
           <line>2</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/Exercise/02_find)variable_names_in_sentences.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/Exercise/02_find)variable_names_in_sentences.py</url>
           <line>4</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/Exercise/02_find)variable_names_in_sentences.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/Exercise/02_find)variable_names_in_sentences.py</url>
           <line>6</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/Exercise/02_find)variable_names_in_sentences.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/Exercise/02_find)variable_names_in_sentences.py</url>
           <line>8</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/More Exersices/01_race.py</url>
           <line>33</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/More Exersices/01_race.py</url>
           <line>35</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/More Exersices/01_race.py</url>
           <line>43</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/More Exersices/01_race.py</url>
           <line>45</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/More Exersices/01_race.py</url>
           <line>47</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/More Exersices/01_race.py</url>
           <line>54</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/More Exersices/01_race.py</url>
           <line>59</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/More Exersices/01_race.py</url>
           <line>61</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/10 Regex/More Exersices/01_race.py</url>
+          <url>file://$PROJECT_DIR$/10 - Regex/More Exersices/01_race.py</url>
           <line>63</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
