@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2e0b36b-f344-4dca-8428-b8b2d510b652" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <change afterPath="$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/P!rates/p!rates_advanced solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RANDOMS/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ Final Exam Prep/01. Activation Keys_Problem Description.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/00_introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/00_introduction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/01_match_full_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/01_match_full_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/02_match_phone_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/02_match_phone_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/03_match_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/03_match_dates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/04_match_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/04_match_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/09-RegEx-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/09-RegEx-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/01_capture_the_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/01_capture_the_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/02_find)variable_names_in_sentences.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/02_find)variable_names_in_sentences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/03_find_occurances_of_word_in_sentence.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/03_find_occurances_of_word_in_sentence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/04_extract_emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/04_extract_emails.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/05_furniture.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/05_furniture.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/06_extract_the_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/06_extract_the_link.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/Exercise/regex_exersices_yсловия.docx" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/Exercise/regex_exersices_yсловия.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/More Exersices/01_race.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/More Exersices/01_race.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/More Exersices/02_softuni_bar_income.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/More Exersices/02_softuni_bar_income.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/More Exersices/03_star_enigma.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/More Exersices/03_star_enigma.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/More Exersices/04_nether_realms.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/More Exersices/04_nether_realms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/More Exersices/05_html_phaser.py" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/More Exersices/05_html_phaser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10 Regex/More Exersices/Условия.docx" beforeDir="false" afterPath="$PROJECT_DIR$/10 - Regex/More Exersices/Условия.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/P!rates/p!rates.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/P!rates/p!rates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/P!rates/p!rates_advanced solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/P!rates/p!rates_advanced solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +50,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\RANDOMS" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\05. Programming Fundamentals Final Exam\P!rates" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\02. Programming Fundamentals Final Exam\World Tour" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\02. Programming Fundamentals Final Exam" />
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\01. Programming Fundamentals Final Exam\The Imitation Game" />
-      <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\01. Programming Fundamentals Final Exam\Ad Astra" />
     </key>
   </component>
   <component name="RunManager" selected="Python.1">
@@ -203,13 +181,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670409101610</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <created>1671790828103</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1671790828103</updated>
     </task>
     <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
       <created>1671791646068</created>
@@ -547,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673427620473</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
+      <created>1673436818764</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1673436818764</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
