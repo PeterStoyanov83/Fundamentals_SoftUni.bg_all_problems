@@ -2,6 +2,7 @@ import re
 
 targeted_cities = {}
 
+
 while True:
     command = input()
     if command == "Sail":
