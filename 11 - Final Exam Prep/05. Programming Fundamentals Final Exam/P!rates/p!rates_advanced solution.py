@@ -49,8 +49,7 @@ class Pirate:
                 return
             self.targeted_cities[city_name].gold += gold
             print(
-                f"{gold} gold added to the city treasury. {city_name} now has"
-                f" {self.targeted_cities[city_name].gold} gold.")
+                f"{gold} gold added to the city treasury. {city_name} now has {self.targeted_cities[city_name].gold} gold.")
 
     def end(self):
         if self.targeted_cities:
@@ -58,7 +57,7 @@ class Pirate:
             for city, info in self.targeted_cities.items():
                 print(str(info))
         else:
-            pass
+            print("Ahoy, Captain! All targets have been plundered and destroyed!")
 
 
 pirate = Pirate()
