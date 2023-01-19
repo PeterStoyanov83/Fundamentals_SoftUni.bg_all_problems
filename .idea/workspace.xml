@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7135c04d-e3e8-4e84-bbfa-52dff043c12a" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/00_introduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/00_introduction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/01_match_full_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/01_match_full_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/02_match_phone_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/02_match_phone_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/03_match_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/03_match_dates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/04_match_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/04_match_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/09-RegEx-Lab.docx" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/09-RegEx-Lab.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/Exercise/01_capture_the_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/Exercise/01_capture_the_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/Exercise/02_find)variable_names_in_sentences.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/Exercise/02_find)variable_names_in_sentences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/Exercise/03_find_occurances_of_word_in_sentence.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/Exercise/03_find_occurances_of_word_in_sentence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/Exercise/04_extract_emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/Exercise/04_extract_emails.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/Exercise/05_furniture.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/Exercise/05_furniture.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/Exercise/06_extract_the_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/Exercise/06_extract_the_link.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/Exercise/regex_exersices_yсловия.docx" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/Exercise/regex_exersices_yсловия.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/More Exersices/01_race.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/More Exersices/01_race.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/More Exersices/02_softuni_bar_income.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/More Exersices/02_softuni_bar_income.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/More Exersices/03_star_enigma.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/More Exersices/03_star_enigma.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/More Exersices/04_nether_realms.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/More Exersices/04_nether_realms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/More Exersices/05_html_phaser.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/More Exersices/05_html_phaser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11 - Regex/More Exersices/Условия.docx" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/More Exersices/Условия.docx" afterDir="false" />
-    </list>
+    <list default="true" id="7135c04d-e3e8-4e84-bbfa-52dff043c12a" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,13 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670409101610</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <created>1671791852064</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1671791852064</updated>
     </task>
     <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
       <created>1671792578574</created>
@@ -544,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673614612730</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1673863418354</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1673863418355</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
