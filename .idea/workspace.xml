@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7135c04d-e3e8-4e84-bbfa-52dff043c12a" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/03 - Lists Basics/More Exerces/06_list_manipulator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/07_patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/07_patterns.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/03 - pounds to dollars.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/03 - pounds to dollars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/05-special numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/05-special numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/06- happy year.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/06- happy year.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/01_integer_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/01_integer_operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/02-Data-Types-and-Variables-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/Data-Types-and-Variables-Exercise.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/04_sum_of_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/04_sum_of_characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/07_water_overflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/07_water_overflow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/08_party_profit.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/08_party_profit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/09_snowballs.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/09_snowballs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/10_gladiator_expences.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/10_gladiator_expences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/More Exercises/01_exchange_integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/More Exercises/01_exchange_integers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/More Exercises/02-Data-Types-and-Variables-More-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/More Exercises/Data-Types-and-Variables-More-Exercises.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/01_invert_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/01_invert_values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/03-Lists-Basics-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/Lists-Basics-Exercise.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/03_football_cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/03_football_cards.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/More Exerces/01_zero_to_back.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/More Exerces/01_zero_to_back.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/More Exerces/02_messaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/More Exerces/02_messaging.py" afterDir="false" />
-    </list>
+    <list default="true" id="7135c04d-e3e8-4e84-bbfa-52dff043c12a" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -200,13 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670409101610</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <created>1671795221941</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1671795221941</updated>
     </task>
     <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
       <created>1671795259496</created>
@@ -544,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675672247917</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1675675486762</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1675675486762</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
