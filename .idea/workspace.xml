@@ -6,14 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7135c04d-e3e8-4e84-bbfa-52dff043c12a" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/04_number_beggars.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/04_number_beggars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/05_faro_shuffle.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/05_faro_shuffle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/06_survival_of_the_biggest.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/06_survival_of_the_biggest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/07_easter_gifts.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/07_easter_gifts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/08_sieze_the_fire.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/08_sieze_the_fire.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/09_hello_france.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/09_hello_france.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/10_bread_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/10_bread_factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/Exercises/04-Functions-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/Exercises/functions_exercise.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 - Functions/Exercises/09_password_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/Exercises/09_password_validator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,13 +182,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670409101610</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <created>1671798380444</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1671798380444</updated>
     </task>
     <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
       <created>1671798605309</created>
@@ -533,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675684771094</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1675693088547</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1675693088547</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
