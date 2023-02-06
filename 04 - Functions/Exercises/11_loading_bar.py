@@ -1,4 +1,4 @@
-def check_loadinf_prog(a):
+def check_loading_prog(a):
     if a == 100:
         return "100% Complete!\n[%%%%%%%%%%]"
     return f"{a}% [{'%' * (a // 10)}{'.' * (10 - (a // 10))}]\nStill loading..."
@@ -6,4 +6,4 @@ def check_loadinf_prog(a):
 
 bar_value = int(input())
 
-print(check_loadinf_prog(bar_value))
+print(check_loading_prog(bar_value))
