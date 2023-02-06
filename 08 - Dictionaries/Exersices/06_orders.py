@@ -14,4 +14,3 @@ while True:
 for name in orders:
     total_price = orders[name][0] * orders[name][1]
     print(f"{name} -> {total_price:.2f}")
-

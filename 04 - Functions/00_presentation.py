@@ -20,8 +20,10 @@
 def header():
     print("This is Header!")
 
+
 def bottom():
     print("this is bottom ")
+
 
 def general():
     header()
@@ -36,6 +38,7 @@ def countdown(number):
     if number == 0:
         return
     else:
-        countdown(number -1 )
+        countdown(number - 1)
+
 
 countdown(9)

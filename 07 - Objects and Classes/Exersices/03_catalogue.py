@@ -14,5 +14,3 @@ class Catalogue:
         string_with_output += '\n'.join(sorted(self.products))
 
         return string_with_output
-
-

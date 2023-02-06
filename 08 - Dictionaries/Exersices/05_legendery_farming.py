@@ -1,3 +1,4 @@
+
 items = {"shards": 0, "fragments": 0, "motes": 0}
 current_items = input().split()
 obtained = False

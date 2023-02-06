@@ -12,6 +12,3 @@ class Town:
 
     def __repr__(self):
         return f"Town: {self.name} | Latitude: {self.latitude} | Longitude: {self.longitude}"
-
-
-

@@ -15,4 +15,3 @@ if average_welth > minimum_welth:
 
 else:
     print("No equal distribution possible")
-

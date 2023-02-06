@@ -7,15 +7,15 @@ class Party:
     def __init__(self):
         self.people = []
 
-
     def invite(self, person):
         self.people.append(person)
 
-    def name_of_attendees(self ):
+    def name_of_attendees(self):
         return ', '.join([person.name for person in self.people])
 
     def number_of_guests(self):
-        return  len(self.people)
+        return len(self.people)
+
 
 while True:
     command = input()

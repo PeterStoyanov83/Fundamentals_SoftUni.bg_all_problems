@@ -16,5 +16,3 @@ while True:
 final_to_do_list = [element for element in to_do_notes if element != 0]
 
 print(final_to_do_list)
-
-

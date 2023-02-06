@@ -1,5 +1,5 @@
 class Weapon:
-    def __init__(self, bullets = int):
+    def __init__(self, bullets=int):
         self.bullets = bullets
 
     def shoot(self):
@@ -8,7 +8,7 @@ class Weapon:
             return "shooting..."
         return "no bullets left"
 
-    def __repr__(self):    #repr = representation
+    def __repr__(self):  # repr = representation
         return f"Remaining bullets: {self.bullets}"
 
 

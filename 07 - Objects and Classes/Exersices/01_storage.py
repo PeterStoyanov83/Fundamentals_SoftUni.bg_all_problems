@@ -5,7 +5,6 @@ class Storage:
         self.capacity = capacity
 
     def add_product(self, product: str):
-
         if self.capacity > 0:
             Storage.storage.append(product)
             self.capacity -= 1

@@ -1,5 +1,3 @@
-
-
 employees = input().split(" ")
 happiness_factor = int(input())
 
@@ -11,6 +9,3 @@ if len(filtered) >= len(employees) / 2:
     print(f"Score: {len(filtered)}/{len(employees)}. Employees are happy!")
 else:
     print(f"Score: {len(filtered)}/{len(employees)}. Employees are not happy!")
-
-
-

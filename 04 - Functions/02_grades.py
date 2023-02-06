@@ -13,5 +13,4 @@ def solve(grade):
 
 grade_data = float(input())
 
-
 print(solve(grade_data))

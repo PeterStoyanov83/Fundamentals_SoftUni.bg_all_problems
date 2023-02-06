@@ -13,4 +13,3 @@ data_type = input()
 data_value = input()
 
 print(check_data_type(data_type, data_value))
-
