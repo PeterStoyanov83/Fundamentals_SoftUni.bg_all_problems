@@ -6,6 +6,4 @@ for word in text:
 
 print(result)
 
-
 # [print(s * len(s))for s in input().split()]
-

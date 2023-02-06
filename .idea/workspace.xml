@@ -5,56 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7135c04d-e3e8-4e84-bbfa-52dff043c12a" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/00_presentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/00_presentation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/01_absolute_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/01_absolute_values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/02_grades.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/02_grades.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/04_repeating_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/04_repeating_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/Exercises/02_add_and_substract.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/Exercises/02_add_and_substract.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/Exercises/03_characters_in_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/Exercises/03_characters_in_range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/Exercises/04_odd_and_even_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/Exercises/04_odd_and_even_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/Exercises/05_even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/Exercises/05_even_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/Exercises/06_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/Exercises/06_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/Exercises/07_min_max_and_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/Exercises/07_min_max_and_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/Exercises/08_palindrome_integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/Exercises/08_palindrome_integers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/Exercises/09_password_validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/Exercises/09_password_validator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/Exercises/11_loading_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/Exercises/11_loading_bar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/More Exercises/01_data_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/More Exercises/01_data_types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/More Exercises/02_center_point.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/More Exercises/02_center_point.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/More Exercises/03_longer_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/More Exercises/03_longer_line.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/More Exercises/04_tribonacci_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/More Exercises/04_tribonacci_sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04 - Functions/More Exercises/05_multiplication_sign.py" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/More Exercises/05_multiplication_sign.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/00_presentation.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/00_presentation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/01_no_vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/01_no_vowels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/02_trains.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/02_trains.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/03_to_to_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/03_to_to_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/05_sorting_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/05_sorting_names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/06_even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/06_even_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/07_the_office.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/07_the_office.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/01_which_are_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/01_which_are_in.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/02_next_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/02_next_version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/03_word_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/03_word_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/04_number_classificaton.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/04_number_classificaton.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/05_office_chairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/05_office_chairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/06_electron_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/06_electron_distribution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/07_groups of 10s.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/07_groups of 10s.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/08_decipher_this.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/08_decipher_this.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/09_anonymous_threat.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/09_anonymous_threat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/10_pokemon_don't_go.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/10_pokemon_don't_go.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/11_softuni_course_planning.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/Exersices/11_softuni_course_planning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05 - Lists Advanced/More Exerices/01_social_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/05 - Lists Advanced/More Exerices/01_social_distribution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 - Objects and Classes/01_comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Objects and Classes/01_comments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 - Objects and Classes/02_party.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Objects and Classes/02_party.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 - Objects and Classes/05_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Objects and Classes/05_circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/01_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/01_storage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/02_weapon.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/02_weapon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/03_catalogue.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/03_catalogue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/04_town.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/04_town.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/05_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/05_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/07_articles.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/07_articles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/Exersices/01_character_occurances.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/Exersices/01_character_occurances.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/Exersices/03_capitals.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/Exersices/03_capitals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/Exersices/05_legendery_farming.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/Exersices/05_legendery_farming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/01_bakery.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/01_bakery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/03_statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/03_statistics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/05_ascii_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/05_ascii_values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/06_odd_occurrances.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/06_odd_occurrances.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/07_word_synonyms.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/07_word_synonyms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/Exersices/10_company_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/Exersices/10_company_users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/Exersices/12_softuni_exam_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/Exersices/12_softuni_exam_results.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/01_reverse_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/01_reverse_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/02_repeat_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/02_repeat_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/03_substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/03_substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/04_text_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/04_text_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/05_digits_letters_and_other.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/05_digits_letters_and_other.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12 - Regex/03_match_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/03_match_dates.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,13 +193,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670409101610</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <created>1671796198371</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1671796198371</updated>
     </task>
     <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
       <created>1671796785046</created>
@@ -574,7 +530,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675675702017</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1675679511703</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1675679511703</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">

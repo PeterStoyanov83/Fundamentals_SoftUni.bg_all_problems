@@ -8,4 +8,3 @@ result = re.findall(search_pattern, date)
 
 for match in result:
     print(f"Day: {match[0]}, Month: {match[2]}, Year: {match[3]}")
-   

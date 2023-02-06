@@ -1,4 +1,3 @@
-
 list_of_characters = input().split(", ")
 
 # characters = {}

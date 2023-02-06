@@ -8,5 +8,3 @@ result = re.finditer(pattern, numbers)
 
 for match in result:
     print(match.group(), end=" ")
-
-
