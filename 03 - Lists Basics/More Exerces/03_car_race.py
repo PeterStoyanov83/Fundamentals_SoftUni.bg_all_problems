@@ -16,5 +16,6 @@ def car_race(race_track):
     else:
         return "The winner is right with total time: {:.1f}".format(right_time)
 
+
 race_track = list(map(int, input().split()))
 print(car_race(race_track))
