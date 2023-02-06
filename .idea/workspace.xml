@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7135c04d-e3e8-4e84-bbfa-52dff043c12a" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/01_bakery.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/01_bakery.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/03_statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/03_statistics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/05_ascii_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/05_ascii_values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/06_odd_occurrances.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/06_odd_occurrances.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/07_word_synonyms.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/07_word_synonyms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/Exersices/10_company_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/Exersices/10_company_users.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08 - Dictionaries/Exersices/12_softuni_exam_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/08 - Dictionaries/Exersices/12_softuni_exam_results.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/01_reverse_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/01_reverse_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/02_repeat_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/02_repeat_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/03_substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/03_substring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/04_text_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/04_text_filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/05_digits_letters_and_other.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/05_digits_letters_and_other.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12 - Regex/03_match_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 - Regex/03_match_dates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/03_chat_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/03_chat_codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/07_double_char.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/07_double_char.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/11_easter_bread.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/11_easter_bread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/12_christmas_spirit.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/12_christmas_spirit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/02_chars_to_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/02_chars_to_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/05_print_part_of_ascii_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/05_print_part_of_ascii_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/06_triples_of_latin_letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/06_triples_of_latin_letters.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +64,7 @@
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\01. Programming Fundamentals Final Exam\The Imitation Game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.06_list_manipulator">
+  <component name="RunManager" selected="Python.06_triples_of_latin_letters">
     <configuration name="06_list_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,6 +78,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 - Lists Basics/More Exerces/06_list_manipulator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06_triples_of_latin_letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals_SoftUni.bg_all_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 - Data Types and Variables/Exersices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/06_triples_of_latin_letters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,27 +149,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="need_for_speed_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals_SoftUni.bg_all_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Need For Speed 3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 - Final Exam Prep/03. Programming Fundamentals Final Exam Retake/Need For Speed 3/need_for_speed_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="p!rates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.06_triples_of_latin_letters" />
         <item itemvalue="Python.06_list_manipulator" />
         <item itemvalue="Python.acrivation_keys" />
         <item itemvalue="Python.1" />
         <item itemvalue="Python.p!rates" />
-        <item itemvalue="Python.need_for_speed_3" />
       </list>
     </recent_temporary>
   </component>
@@ -193,13 +188,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670409101610</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <created>1671796785046</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1671796785046</updated>
     </task>
     <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
       <created>1671797442173</created>
@@ -537,7 +525,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675679511703</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1675680072567</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1675680072567</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">

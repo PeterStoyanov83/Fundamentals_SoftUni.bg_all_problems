@@ -1,7 +1,11 @@
-n = int(input())
+def main():
+    n = int(input())
+    latin_letters = [chr(x) for x in range(ord("a"), ord("a") + n)]
+    triples = [(x, y, z) for x in latin_letters for y in latin_letters for z in latin_letters]
+    triples.sort()
+    for triple in triples:
+        print("".join(triple))
 
-for i in range(0, n + 1):
-    for k in range(0, n + 1):
-        for j in range(0, n + 1):
-            for k in range(0, n + 1):
-                print(f'{chr(97 + i)}{chr(97 + j)}{chr(97 +j)}{chr(97+k)}')
+
+if __name__ == "__main__":
+    main()

@@ -1,4 +1,3 @@
-
 quantity = int(input())
 remaining_days = int(input())
 budget = 0
@@ -28,4 +27,3 @@ if remaining_days % 10 == 0:
     total_spirit -= 30
 print(f"Total cost: {budget}")
 print(f"Total spirit: {total_spirit}")
-
