@@ -6,13 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="7135c04d-e3e8-4e84-bbfa-52dff043c12a" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/03_chat_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/03_chat_codes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/07_double_char.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/07_double_char.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/11_easter_bread.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/11_easter_bread.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/12_christmas_spirit.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/12_christmas_spirit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/02_chars_to_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/02_chars_to_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/05_print_part_of_ascii_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/05_print_part_of_ascii_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/06_triples_of_latin_letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/06_triples_of_latin_letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/04_number_beggars.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/04_number_beggars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/05_faro_shuffle.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/05_faro_shuffle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/06_survival_of_the_biggest.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/06_survival_of_the_biggest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/07_easter_gifts.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/07_easter_gifts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/08_sieze_the_fire.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/08_sieze_the_fire.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/09_hello_france.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/09_hello_france.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/10_bread_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/10_bread_factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 - Functions/Exercises/04-Functions-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/04 - Functions/Exercises/functions_exercise.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,28 @@
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\01. Programming Fundamentals Final Exam\The Imitation Game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.06_triples_of_latin_letters">
+  <component name="RunManager" selected="Python.10_bread_factory">
+    <configuration name="05_faro_shuffle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals_SoftUni.bg_all_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 - Lists Basics/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 - Lists Basics/Exercises/05_faro_shuffle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="06_list_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="10_bread_factory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 - Lists Basics/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="P:\Peter\Fundamentals_SoftUni.bg_all_problems\RANDOMS\1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 - Lists Basics/Exercises/10_bread_factory.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,34 +171,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p!rates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals_SoftUni.bg_all_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/P!rates" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/P!rates/p!rates.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10_bread_factory" />
+        <item itemvalue="Python.05_faro_shuffle" />
         <item itemvalue="Python.06_triples_of_latin_letters" />
         <item itemvalue="Python.06_list_manipulator" />
         <item itemvalue="Python.acrivation_keys" />
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.p!rates" />
       </list>
     </recent_temporary>
   </component>
@@ -188,13 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670409101610</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <created>1671797442173</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1671797442173</updated>
     </task>
     <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
       <created>1671798380444</created>
@@ -532,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675680072567</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1675684771079</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1675684771094</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -843,6 +844,26 @@
           <url>file://$PROJECT_DIR$/11 - Final Exam Prep/05. Programming Fundamentals Final Exam/Activation keys/acrivation_keys.py</url>
           <line>22</line>
           <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03 - Lists Basics/Exercises/10_bread_factory.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03 - Lists Basics/Exercises/10_bread_factory.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03 - Lists Basics/Exercises/10_bread_factory.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03 - Lists Basics/Exercises/10_bread_factory.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="90" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
