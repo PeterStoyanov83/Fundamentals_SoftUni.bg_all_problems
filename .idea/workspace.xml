@@ -5,17 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7135c04d-e3e8-4e84-bbfa-52dff043c12a" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/03 - Lists Basics/More Exerces/06_list_manipulator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/01_jenny's_secret_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/01_jenny's_secret_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/02_drink_something.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/02_drink_something.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/03_chat_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/03_chat_codes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/04_maximum_multiply.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/04_maximum_multiply.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/05_orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/05_orders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/06_string_pureness.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/06_string_pureness.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/07_double_char.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/07_double_char.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/08_how_much_coffee_do_you_need.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/08_how_much_coffee_do_you_need.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/09_Sorting_hat.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/09_Sorting_hat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/10_mutate_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/Exersise/10_mutate_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/07_patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/01 - Basic Syntax, Conditional Statements and Loops/07_patterns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/03 - pounds to dollars.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/03 - pounds to dollars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/05-special numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/05-special numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/06- happy year.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/06- happy year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/01_integer_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/01_integer_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/02-Data-Types-and-Variables-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/Data-Types-and-Variables-Exercise.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/04_sum_of_characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/04_sum_of_characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/07_water_overflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/07_water_overflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/08_party_profit.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/08_party_profit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/09_snowballs.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/09_snowballs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/10_gladiator_expences.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/10_gladiator_expences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/More Exercises/01_exchange_integers.py" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/More Exercises/01_exchange_integers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 - Data Types and Variables/More Exercises/02-Data-Types-and-Variables-More-Exercises.docx" beforeDir="false" afterPath="$PROJECT_DIR$/02 - Data Types and Variables/More Exercises/Data-Types-and-Variables-More-Exercises.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/01_invert_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/01_invert_values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/03-Lists-Basics-Exercise.docx" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/Lists-Basics-Exercise.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/Exercises/03_football_cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/Exercises/03_football_cards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/More Exerces/01_zero_to_back.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/More Exerces/01_zero_to_back.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 - Lists Basics/More Exerces/02_messaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/03 - Lists Basics/More Exerces/02_messaging.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +76,28 @@
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\01. Programming Fundamentals Final Exam\The Imitation Game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.acrivation_keys">
+  <component name="RunManager" selected="Python.06_list_manipulator">
+    <configuration name="06_list_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals_SoftUni.bg_all_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 - Lists Basics/More Exerces" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 - Lists Basics/More Exerces/06_list_manipulator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,34 +182,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="world_tour" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals_SoftUni.bg_all_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 - Final Exam Prep/02. Programming Fundamentals Final Exam/World Tour" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11 - Final Exam Prep/02. Programming Fundamentals Final Exam/World Tour/world_tour.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.06_list_manipulator" />
         <item itemvalue="Python.acrivation_keys" />
         <item itemvalue="Python.1" />
         <item itemvalue="Python.p!rates" />
         <item itemvalue="Python.need_for_speed_3" />
-        <item itemvalue="Python.world_tour" />
       </list>
     </recent_temporary>
   </component>
@@ -191,20 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670409101610</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <created>1671792593564</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1671792593564</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <created>1671792602445</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1671792602445</updated>
     </task>
     <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
       <created>1671795221941</created>
@@ -535,7 +530,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675428178722</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1675672135282</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1675672135282</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1675672247917</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1675672247917</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
