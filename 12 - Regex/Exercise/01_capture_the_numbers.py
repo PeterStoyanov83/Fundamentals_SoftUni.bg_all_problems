@@ -1,6 +1,5 @@
 import re
 
-
 pattern = r'\d+'
 line = input()
 
@@ -13,6 +12,5 @@ while True:
 
     else:
         break
-
 
 print()
