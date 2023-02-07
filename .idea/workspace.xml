@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7135c04d-e3e8-4e84-bbfa-52dff043c12a" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/05_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/05_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/01_reverse_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/01_reverse_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/01_valid_usernames.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/01_valid_usernames.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/02_character_multiplier.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/02_character_multiplier.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/05_emoticon_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/05_emoticon_finder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/06_replace_repeating_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/06_replace_repeating_chars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/09_rage_qiut.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/09_rage_qiut.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,13 +181,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670409101610</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <created>1671799107848</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1671799107848</updated>
     </task>
     <task id="LOCAL-00020" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
       <created>1671799135994</created>
@@ -531,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675697311376</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1675757710799</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1675757710800</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">

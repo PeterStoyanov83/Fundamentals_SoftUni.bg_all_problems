@@ -1,23 +1,26 @@
-"""
-this is unfinished
-"""
-# Read the input data
-data = input()
-string = input() # read the input
-unique_symbols = set() # set to store unique symbols
-result = "" # string to store the result
+import re
 
-# loop through the input string
-for i in range(len(string)):
-    # check if the current character is a digit
-    if string[i].isdigit():
-        # if it is a digit, convert the previous characters to uppercase and repeat them N times
-        result += string[i - 1:i].upper() * int(string[i])
-    # add the current character to the set of unique symbols
-        unique_symbols.add(string[i - 1].upper())
+# Read the input
+input_data = input()
 
-# print the number of unique symbols used
-print(f"Unique symbols used: {len(unique_symbols)}")
+# Extract the string-number sequences
+matches = re.findall(r'\D+\d+', input_data)
 
-# print the result
-print(result)
+# Calculate the number of unique symbols
+unique_symbols = set()
+for match in matches:
+    string = match[:-1]
+    unique_symbols.update(string.upper())
+
+# Print the number of unique symbols
+print(f'Unique symbols used: {len(unique_symbols)}')
+
+# Build the rage message
+rage_message = ''
+for match in matches:
+    string = match[:-1].upper()
+    repeat_count = int(match[-1])
+    rage_message += string * repeat_count
+
+# Print the rage message
+print(rage_message)
