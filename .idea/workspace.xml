@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7135c04d-e3e8-4e84-bbfa-52dff043c12a" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/01_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/01_storage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/05_class.py" beforeDir="false" afterPath="$PROJECT_DIR$/07 - Objects and Classes/Exersices/05_class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/01_reverse_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/01_reverse_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/01_valid_usernames.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/01_valid_usernames.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/02_character_multiplier.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/02_character_multiplier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/05_emoticon_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/05_emoticon_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09 - Text Processing/Exersices/06_replace_repeating_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/09 - Text Processing/Exersices/06_replace_repeating_chars.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +63,28 @@
       <recent name="P:\Peter\Fundamentals_SoftUni.bg_all_problems\11 - Final Exam Prep\01. Programming Fundamentals Final Exam\The Imitation Game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05_class">
+  <component name="RunManager" selected="Python.05_emoticon_finder">
+    <configuration name="01_valid_usernames" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fundamentals_SoftUni.bg_all_problems" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09 - Text Processing/Exersices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 - Text Processing/Exersices/01_valid_usernames.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="04_number_classificaton" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_faro_shuffle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_emoticon_finder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fundamentals_SoftUni.bg_all_problems" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,32 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03 - Lists Basics/Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09 - Text Processing/Exersices" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 - Lists Basics/Exercises/05_faro_shuffle.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="06_triples_of_latin_letters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fundamentals_SoftUni.bg_all_problems" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02 - Data Types and Variables/Exersices" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02 - Data Types and Variables/Exersices/06_triples_of_latin_letters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09 - Text Processing/Exersices/05_emoticon_finder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05_emoticon_finder" />
+        <item itemvalue="Python.01_valid_usernames" />
         <item itemvalue="Python.05_class" />
         <item itemvalue="Python.04_number_classificaton" />
         <item itemvalue="Python.10_bread_factory" />
-        <item itemvalue="Python.05_faro_shuffle" />
-        <item itemvalue="Python.06_triples_of_latin_letters" />
       </list>
     </recent_temporary>
   </component>
@@ -183,13 +187,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670409101610</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
-      <created>1671799046706</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1671799046706</updated>
     </task>
     <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;06 Mid Exam Preparation/Numbers/numbers.py">
       <created>1671799107848</created>
@@ -527,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675695729948</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1675697311376</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1675697311376</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">

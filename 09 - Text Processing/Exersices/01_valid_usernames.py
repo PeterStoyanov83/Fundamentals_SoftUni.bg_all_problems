@@ -37,19 +37,26 @@ the output.
 import re
 
 
-def extract_person_info(line):
-    # Use a regular expression to find the name and age in the string
-    name_regex = r"@(.+?)\|"
-    age_regex = r"#(.+?)\*"
-    name = re.search(name_regex, line).group(1)
-    age = re.search(age_regex, line).group(1)
+def is_valid_username(username):
+    # Check that the username is between 3 and 16 characters long
+    if not (3 <= len(username) <= 16):
+        return False
 
-    # Print the extracted information
-    print(f"{name} is {age} years old.")
+    # Check that the username contains only letters, numbers, hyphens, and underscores
+    if not re.fullmatch(r'[\w-]+', username):
+        return False
+
+    # Check that the username has no redundant symbols
+    if re.search(r'(^-|-$|_{2,}|-{2,})', username):
+        return False
+
+    return True
 
 
-# Read N lines of input from the user
-N = int(input())
-for i in range(N):
-    line = input()
-    extract_person_info(line)
+# Read the usernames from the input
+usernames = input().split(", ")
+
+# Print the valid usernames
+for username in usernames:
+    if is_valid_username(username):
+        print(username)
